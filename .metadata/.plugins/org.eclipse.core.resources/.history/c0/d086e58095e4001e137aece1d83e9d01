@@ -1,0 +1,30 @@
+package hellofx;
+
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.scene.control.Label;
+
+public class Controller {
+
+    @FXML
+    private Label label;
+
+    public void initialize() {
+        String javaVersion = System.getProperty("java.version");
+        String javafxVersion = System.getProperty("javafx.version");
+        label.setText("Hello, JavaFX " + javafxVersion + "\nRunning on Java " + javaVersion + ".");
+    }
+    
+    public void up(ActionEvent e) {
+    	System.out.println("UP is clicked");
+    }
+    public void down(ActionEvent e) {
+    	System.out.println("DOWN is clicked");
+    }
+    public void right(ActionEvent e) {
+    	System.out.println("Right is clicked");
+    }
+    public void left(ActionEvent e) {
+    	System.out.println("Left is clicked");
+    }
+}
