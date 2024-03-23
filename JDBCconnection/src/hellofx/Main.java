@@ -11,25 +11,14 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-
+import java.sql.*;
 
 
 public class Main extends Application {
 
-//    @Override
-//    public void start(Stage primaryStage) throws Exception{
-//        Parent root = FXMLLoader.load(getClass().getResource("hellofx.fxml"));
-//        primaryStage.setTitle("Hello World");
-//        primaryStage.setScene(new Scene(root, 400, 300));
-//        primaryStage.show();
-//        
-//        
-//        
-//    }
-
 
     public static void main(String[] args) throws Exception {
-        //launch(args);
+     
     	
     	String sql = "select name from student where id = 2141132";
         String url="jdbc:mysql://localhost:3306/damo";
@@ -50,7 +39,12 @@ public class Main extends Application {
 		System.out.println(name);
 		
 		con.close();
+    	
+    	
+    	
+    	
 		
+    	
         
     }
 }
