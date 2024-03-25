@@ -72,7 +72,7 @@ public class TeacherLoginController {
                 } else {
                     System.out.println("Login Failed");
                     //JOptionPane.showMessageDialog(null, "Log-In Failed!!!");
-                   
+                    showError();
                     txtTeacherID.setText("");
                     txtTeacherPass.setText("");
                     txtTeacherID.requestFocus();
@@ -102,6 +102,21 @@ public class TeacherLoginController {
     void switchTeacherPage1() throws IOException {
         // Load the new FXML file
         Parent root = FXMLLoader.load(getClass().getResource("./Teacher/TeacherPage1.fxml"));
+        
+        // Create a new stage
+        Stage stage = new Stage();
+        
+        // Create a new scene with the loaded FXML content
+        Scene scene = new Scene(root);
+        
+        // Set the scene on the stage and show it
+        stage.setScene(scene);
+        stage.show();
+    }
+    
+    void showError() throws IOException {
+        // Load the new FXML file
+        Parent root = FXMLLoader.load(getClass().getResource("./Teacher/ShowError.fxml"));
         
         // Create a new stage
         Stage stage = new Stage();
