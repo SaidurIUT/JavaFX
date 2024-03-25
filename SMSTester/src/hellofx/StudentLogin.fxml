@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Text?>
-<?import javafx.scene.control.PasswordField?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hellofx.mainPageController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hellofx.StudentLoginController">
    <children>
       <Text layoutX="163.0" layoutY="169.0" strokeType="OUTSIDE" strokeWidth="0.0" text="UserID" />
       <Text layoutX="147.0" layoutY="220.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password" />
       <TextField layoutX="220.0" layoutY="152.0" promptText="UserID" />
       <TextField layoutX="220.0" layoutY="202.0" promptText="Password" />
-      <Button layoutX="257.0" layoutY="268.0" mnemonicParsing="false" text=" Log in" />
+      <Button fx:id="buttStudent" layoutX="258.0" layoutY="268.0" mnemonicParsing="false" onAction="#StudentLogin" text=" Log in" />
       <Button layoutX="492.0" layoutY="337.0" mnemonicParsing="false" onAction="#switchmainPage" text="Back" />
       <Text layoutX="249.0" layoutY="52.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Student Log in Page" />
-      <PasswordField layoutX="219.0" layoutY="203.0" promptText="Enter password" />
-      <TextField layoutX="220.0" layoutY="152.0" promptText="Enter UserID" />
+      <PasswordField fx:id="txtStudentPass" layoutX="219.0" layoutY="203.0" promptText="Enter password" />
+      <TextField fx:id="txtStudentID" layoutX="220.0" layoutY="152.0" promptText="Enter UserID" />
    </children>
 </AnchorPane>
