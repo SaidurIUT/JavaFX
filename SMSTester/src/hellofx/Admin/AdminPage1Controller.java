@@ -36,6 +36,17 @@ public class AdminPage1Controller{
 		
 	}
 	
+	@FXML
+	public void logOut(ActionEvent event) throws IOException {
+		System.out.println("Log-out from admin ...");
+		Parent root = FXMLLoader.load(getClass().getResource("../AdminLogin.fxml"));
+		stage = (Stage)((Node)event.getSource()).getScene().getWindow();
+		scene = new Scene(root);
+		stage.setScene(scene);
+		stage.show();
+		
+	}
+	
 	
 		
 }

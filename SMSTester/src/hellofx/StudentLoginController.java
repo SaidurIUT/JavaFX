@@ -104,8 +104,8 @@ public class StudentLoginController {
         Parent root = FXMLLoader.load(getClass().getResource("./Student/StudentPage1.fxml"));
         
         // Create a new stage
-        Stage stage = new Stage();
-        
+        //Stage stage = new Stage();
+        Stage stage = (Stage) txtStudentID.getScene().getWindow();
         // Create a new scene with the loaded FXML content
         Scene scene = new Scene(root);
         

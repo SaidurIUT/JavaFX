@@ -104,8 +104,8 @@ public class adminLoginController {
         Parent root = FXMLLoader.load(getClass().getResource("./Admin/AdminPage1.fxml"));
         
         // Create a new stage
-        Stage stage = new Stage();
-        
+        //Stage stage = new Stage();
+        Stage stage = (Stage) txtAdminID.getScene().getWindow();
         // Create a new scene with the loaded FXML content
         Scene scene = new Scene(root);
         

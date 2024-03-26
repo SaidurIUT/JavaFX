@@ -14,5 +14,6 @@
       </Text>
       <Button fx:id="buttManageStudent" layoutX="70.0" layoutY="115.0" mnemonicParsing="false" onAction="#manageStudent" text="Manage Student" />
       <Button fx:id="buttManageTeacher" layoutX="70.0" layoutY="175.0" mnemonicParsing="false" onAction="#manageTeacher" text="Manage Teacher" />
+      <Button layoutX="524.0" layoutY="26.0" mnemonicParsing="false" onAction="#logOut" text="Log Out" />
    </children>
 </AnchorPane>
