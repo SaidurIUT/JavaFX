@@ -13,5 +13,6 @@
          </font>
       </Text>
       <Button layoutX="517.0" layoutY="353.0" mnemonicParsing="false" onAction="#switchAdminPage1" text="Back" />
+      <Button layoutX="258.0" layoutY="187.0" mnemonicParsing="false" onAction="#addStudent" text="Add Student" />
    </children>
 </AnchorPane>
