@@ -20,5 +20,6 @@
       <Text layoutX="47.0" layoutY="255.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Batch(year)" />
       <Text layoutX="47.0" layoutY="313.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password" />
       <Button fx:id="buttCreate" layoutX="438.0" layoutY="189.0" mnemonicParsing="false" onAction="#addStudent" text="Create" />
+      <Button layoutX="484.0" layoutY="333.0" mnemonicParsing="false" onAction="#ManageStudentPage" text="Back" />
    </children>
 </AnchorPane>

@@ -1,5 +1,6 @@
 package hellofx.Admin;
 
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -8,8 +9,13 @@ import java.sql.SQLException;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Node;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
+import javafx.stage.Stage;
 
 public class addStudentController {
 
@@ -33,6 +39,9 @@ public class addStudentController {
 
 	@FXML
 	private TextField txtPassword;
+
+	private Stage stage;
+	private Scene scene;
 
 	String url = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6693766";
 	String username = "sql6693766";
@@ -83,13 +92,25 @@ public class addStudentController {
 
 				int rowsAffected = pst.executeUpdate(); // Use executeUpdate() for INSERT, UPDATE, DELETE
 				int rowsAffected2 = pst2.executeUpdate();
+
 				if (rowsAffected > 0 && rowsAffected2 > 0) {
 					System.out.println("Added successfully");
+					addedData();
+					txtID.setText("");
+					txtNane.setText("");
+					txtDepertment.setText("");
+					txtProgramme.setText("");
+					txtPassword.setText("");
+					txtBatch.setText("");
+					txtID.requestFocus();
+
 				} else {
-					System.out.println("Failed");
+					System.out.println("Insertion Failed");
+					invalidData();
 				}
 
 			} catch (SQLException e1) {
+				invalidData();
 				e1.printStackTrace();
 				System.out.println("SQL Exception occurred: " + e1.getMessage());
 				// Show an error message or take appropriate action for SQL exception
@@ -99,6 +120,46 @@ public class addStudentController {
 			System.out.println("Exception occurred: " + e.getMessage());
 			// Show an error message or take appropriate action for other exceptions
 		}
+	}
+
+	public void ManageStudentPage(ActionEvent event) throws IOException {
+		System.out.println("Switching to Manage Student page...");
+		Parent root = FXMLLoader.load(getClass().getResource("ManageStudent.fxml"));
+		stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
+		scene = new Scene(root);
+		stage.setScene(scene);
+		stage.show();
+
+	}
+
+	void invalidData() throws IOException {
+		// Load the new FXML file
+		Parent root = FXMLLoader.load(getClass().getResource("./popupMessage/invalidData.fxml"));
+
+		// Create a new stage
+		Stage stage = new Stage();
+
+		// Create a new scene with the loaded FXML content
+		Scene scene = new Scene(root);
+
+		// Set the scene on the stage and show it
+		stage.setScene(scene);
+		stage.show();
+	}
+
+	void addedData() throws IOException {
+		// Load the new FXML file
+		Parent root = FXMLLoader.load(getClass().getResource("./popupMessage/addedData.fxml"));
+
+		// Create a new stage
+		Stage stage = new Stage();
+
+		// Create a new scene with the loaded FXML content
+		Scene scene = new Scene(root);
+
+		// Set the scene on the stage and show it
+		stage.setScene(scene);
+		stage.show();
 	}
 
 }

@@ -1,4 +1,4 @@
-package hellofx;
+package hellofx.Admin;
 
 import java.io.IOException;
 import java.sql.Connection;
@@ -14,38 +14,45 @@ import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 
-public class adminLoginController {
+public class addTeacherController {
 
 	@FXML
-	private Label label;
+	private Button buttCreate;
+
 	@FXML
-	private TextField txtAdminID;
+	private TextField txtDepertment;
+
 	@FXML
-	private PasswordField txtAdminPass;
+	private TextField txtID;
+
 	@FXML
-	private Button buttAdmin;
+	private TextField txtNane;
+
 	@FXML
+	private TextField txtPassword;
+
 	private Stage stage;
-	@FXML
 	private Scene scene;
 
 	String url = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6693766";
 	String username = "sql6693766";
 	String password = "h1Pcz9vaTK";
 	PreparedStatement pst;
+	PreparedStatement pst2;
 	Connection con;
 	ResultSet rs;
 
 	@FXML
-	void AdminLogin(ActionEvent event) {
+	void addTeacher(ActionEvent event) {
 		try {
-			String UID = txtAdminID.getText();
-			String pass = txtAdminPass.getText();
+			String id = txtID.getText();
+			String name = txtNane.getText();
+			String department = txtDepertment.getText();
+			String pass = txtPassword.getText();
+
 			try {
 				Class.forName("com.mysql.cj.jdbc.Driver");
 				System.out.println("Driver loaded successfully!!!");
@@ -56,28 +63,41 @@ public class adminLoginController {
 			try {
 				con = DriverManager.getConnection(url, username, password);
 				System.out.println("Connection Established Successfully");
-				pst = con.prepareStatement("select * from adminLoginTable where admin_id = ? and password = ?; ");
-				pst.setString(1, UID);
-				pst.setString(2, pass);
-				System.out.println(pst);
-				System.out.println("Executing query...");
-				rs = pst.executeQuery();
 
-				if (rs.next()) {
-					System.out.println("Login successful");
-					switchadminPage1();
-					// JOptionPane.showMessageDialog(null, "Log-In Success!!!");
+				pst = con.prepareStatement("INSERT INTO teacherInformation (id, name, depertment) VALUES (?, ?, ?)");
+				pst.setString(1, id);
+				pst.setString(2, name);
+				pst.setString(3, department);
+
+				pst2 = con.prepareStatement(
+						"INSERT INTO teacherLoginTable (teacher_id, name, password) VALUES (?, ?, ?)");
+				pst2.setString(1, id);
+				pst2.setString(2, name);
+				pst2.setString(3, pass);
+
+				System.out.println(pst);
+				System.out.println(pst2);
+				System.out.println("Executing update...");
+
+				int rowsAffected = pst.executeUpdate(); // Use executeUpdate() for INSERT, UPDATE, DELETE
+				int rowsAffected2 = pst2.executeUpdate();
+
+				if (rowsAffected > 0 && rowsAffected2 > 0) {
+					System.out.println("Added successfully");
+					addedData();
+					txtID.setText("");
+					txtNane.setText("");
+					txtDepertment.setText("");
+					txtPassword.setText("");
+					txtID.requestFocus();
 
 				} else {
-					System.out.println("Login Failed");
-					// JOptionPane.showMessageDialog(null, "Log-In Failed!!!");
-					showError();
-					txtAdminID.setText("");
-					txtAdminPass.setText("");
-					txtAdminID.requestFocus();
+					System.out.println("Insertion Failed");
+					invalidData();
 				}
 
 			} catch (SQLException e1) {
+				invalidData();
 				e1.printStackTrace();
 				System.out.println("SQL Exception occurred: " + e1.getMessage());
 				// Show an error message or take appropriate action for SQL exception
@@ -89,22 +109,23 @@ public class adminLoginController {
 		}
 	}
 
-	@FXML
-	void switchmainPage(ActionEvent event) throws IOException {
-		Parent root = FXMLLoader.load(getClass().getResource("mainPage.fxml"));
+	public void switchManageTeacherPage(ActionEvent event) throws IOException {
+		System.out.println("Switching to Manage Student page...");
+		Parent root = FXMLLoader.load(getClass().getResource("ManageTeacher.fxml"));
 		stage = (Stage) ((Node) event.getSource()).getScene().getWindow();
 		scene = new Scene(root);
 		stage.setScene(scene);
 		stage.show();
+
 	}
 
-	void switchadminPage1() throws IOException {
+	void invalidData() throws IOException {
 		// Load the new FXML file
-		Parent root = FXMLLoader.load(getClass().getResource("./Admin/AdminPage1.fxml"));
+		Parent root = FXMLLoader.load(getClass().getResource("./popupMessage/invalidData.fxml"));
 
 		// Create a new stage
-		// Stage stage = new Stage();
-		Stage stage = (Stage) txtAdminID.getScene().getWindow();
+		Stage stage = new Stage();
+
 		// Create a new scene with the loaded FXML content
 		Scene scene = new Scene(root);
 
@@ -113,9 +134,9 @@ public class adminLoginController {
 		stage.show();
 	}
 
-	void showError() throws IOException {
+	void addedData() throws IOException {
 		// Load the new FXML file
-		Parent root = FXMLLoader.load(getClass().getResource("./Admin/popupMessage/ShowError.fxml"));
+		Parent root = FXMLLoader.load(getClass().getResource("./popupMessage/addedData.fxml"));
 
 		// Create a new stage
 		Stage stage = new Stage();
