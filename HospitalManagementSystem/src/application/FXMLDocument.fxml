@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import java.lang.String?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="330.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" styleClass="white-bg" stylesheets="@../design/PageDesign.css">
+         <children>
+            <FontAwesomeIconView fill="#306090" glyphName="USER" layoutX="142.0" layoutY="102.0" size="5em" />
+            <Label layoutX="110.0" layoutY="111.0" text="Login Accout" textFill="#306090">
+               <font>
+                  <Font name="Tahoma" size="20.0" />
+               </font>
+            </Label>
+            <Label layoutX="130.0" layoutY="136.0" text="Admin Portal" />
+            <TextField layoutX="43.0" layoutY="188.0" prefHeight="30.0" prefWidth="250.0" promptText="Usernakme" styleClass="textfield-1" stylesheets="@../design/PageDesign.css" />
+            <PasswordField layoutX="42.0" layoutY="230.0" prefHeight="30.0" prefWidth="250.0" promptText="Password" styleClass="textfield-1" stylesheets="@../design/PageDesign.css" />
+            <TextField layoutX="42.0" layoutY="230.0" prefHeight="30.0" prefWidth="250.0" promptText="Password" stylesheets="@../design/PageDesign.css" visible="false">
+               <styleClass>
+                  <String fx:value="textfield-1" />
+                  <String fx:value="white-bg" />
+               </styleClass></TextField>
+            <CheckBox layoutX="43.0" layoutY="266.0" mnemonicParsing="false" text="Show Password" />
+            <Button layoutX="40.0" layoutY="301.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="250.0" styleClass="btn-1" stylesheets="@../design/PageDesign.css" text="LogIn" />
+            <FontAwesomeIconView fill="#306090" glyphName="ADDRESS_BOOK" layoutX="126.0" layoutY="439.0" size="6em" />
+            <ComboBox layoutX="90.0" layoutY="461.0" prefWidth="150.0" promptText="Select Role" stylesheets="@../design/PageDesign.css" />
+            <Label layoutX="68.0" layoutY="499.0" text="Have no account?" />
+            <Hyperlink layoutX="170.0" layoutY="496.0" text="Register here" />
+         </children>
+      </AnchorPane>
+   </children>
+</StackPane>
