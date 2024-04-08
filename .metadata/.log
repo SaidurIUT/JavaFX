@@ -4806,3 +4806,4221 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 04:50:16.242
 !MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 04:59:29.895
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:15:58.115
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:16:30.134
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:17:31.133
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:18:03.143
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:22:08.925
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:26:45.954
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:33:35.996
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:33:55.643
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:34:46.637
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:34:49.205
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:13.301
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:14.925
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:18.751
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:21.722
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:31.443
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:54.563
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:35:58.671
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:01.683
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:04.218
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:05.766
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:07.963
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:08.645
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:09.672
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:10.532
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:12.005
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:12.819
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:15.576
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:24.736
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:25.363
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:26.367
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:28.899
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:29.654
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:30.442
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:32.071
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:38.231
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:39.024
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:40.048
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:42.360
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:36:44.999
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:37:16.167
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:37:19.586
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:37:22.423
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:37:23.164
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:37:23.822
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:37:25.332
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:38:52.067
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:39:10.226
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:42:45.350
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:43:03.679
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:43:07.316
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 05:43:13.345
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:46:42.067
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:47:43.223
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:49:15.164
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:51:17.907
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:52:49.751
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 05:58:59.680
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:06:42.230
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:08:14.382
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:10:47.954
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:11:49.074
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:13:21.127
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:14:22.025
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:15:23.381
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:16:24.248
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:18:26.986
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:19:28.241
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:20:29.086
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:21:32.253
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:22:33.156
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:24:13.348
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:24:49.058
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:24:59.184
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:00.529
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:02.096
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:05.441
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:05.939
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:06.565
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:11.070
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:11.931
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:13.564
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:14.110
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:15.707
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:17.454
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:21.348
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:23.724
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:24.863
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:25.660
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:25:26.909
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:04.565
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:28.235
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:30.040
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:31.603
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:36.317
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:38.740
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:39.381
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:42.349
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:45.954
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:47.600
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:51.195
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:26:57.006
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:01.802
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:06.205
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:09.294
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:10.931
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:11.703
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:12.442
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:16.407
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:18.801
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:32.996
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:35.185
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:37.621
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:43.341
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:45.015
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:47.259
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:49.194
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:49.869
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:51.986
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:54.640
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:56.956
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:27:58.655
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:05.866
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:07.646
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:08.262
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:10.072
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:10.714
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:11.954
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:12.637
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:13.771
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:22.394
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:33.743
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:36.322
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:38.661
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:39.528
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:40.824
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:42.418
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:44.133
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:46.966
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:47.821
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:52.897
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:28:55.757
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:17.155
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:31.015
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:34.880
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:42.482
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:43.198
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:45.575
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:47.956
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:29:49.874
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:33:35.025
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:33:37.889
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:33:39.621
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:33:41.723
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:33:43.532
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:33:58.611
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:39.942
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:42.397
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:45.083
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:46.859
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:47.991
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:49.070
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:50.533
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:55.499
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:57.569
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:34:59.451
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:01.731
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:05.795
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:06.415
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:09.889
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:10.880
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:12.691
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:13.393
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:16.684
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:27.869
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:30.063
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:32.465
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:33.167
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:35.776
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:35:37.565
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:38:22.215
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:41:56.900
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:13.915
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:15.876
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:17.027
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:18.573
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:21.648
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:22.500
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:23.464
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:30.161
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:33.497
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:34.590
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:36.522
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:37.213
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:38.112
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:39.765
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:40.832
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:43.019
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:45.751
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:47.695
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:49.227
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:57.699
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:43:58.380
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:00.542
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:04.671
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:07.156
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:14.506
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:17.897
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:19.665
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:22.818
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:32.897
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:35.081
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:38.388
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:42.565
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:44.539
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:46.392
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:50.646
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:51.304
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:55.072
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:55.618
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:57.183
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:44:58.931
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:00.097
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:01.590
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:03.633
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:04.473
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:05.218
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:06.157
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:06.817
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:18.674
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:44.807
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:45:47.059
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 06:46:31.539
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:48:33.605
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:55:14.478
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:56:15.466
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 06:57:16.819
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:02:56.016
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:04:27.821
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:05:59.806
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:08:02.594
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:12:09.121
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:14:12.046
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:15:13.270
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:17:48.724
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:19:21.007
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:21:54.850
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:22:55.954
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:07.182
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:08.929
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:11.261
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:16.019
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:17.050
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:19.415
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:20.341
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:22.398
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:23.217
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:27:23.515
+!MESSAGE 25
+!STACK 0
+org.eclipse.jface.text.BadLocationException: 25
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1112)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:246)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:863)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toPosition(LSPEclipseUtils.java:183)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toTextDocumentPositionParamsCommon(LSPEclipseUtils.java:281)
+	at org.eclipse.lsp4e.LSPEclipseUtils.toTextDocumentPosistionParams(LSPEclipseUtils.java:302)
+	at com.genuitec.copilot4eclipse.CopilotEditSession.createCompletionRequest(Unknown Source)
+	at com.genuitec.copilot4eclipse.CopilotEditSession.createCompletionRequest(Unknown Source)
+	at com.genuitec.copilot4eclipse.CompletionJob.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:24.005
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:26.487
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:27.118
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:29.295
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:29.822
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:31.445
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:27:36.343
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:28:28.127
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:28:30.613
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:28:39.965
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:28:43.319
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:28:45.817
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:32:38.800
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:36:44.941
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:37:46.025
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:14.029
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:16.593
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:17.527
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:20.308
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:36.940
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:37.627
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:41.254
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:42.106
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:43.125
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:43.694
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:44.573
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:45.390
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:46.784
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:54.835
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:55.556
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:56.235
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:57.824
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:39:59.844
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:40:04.878
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:40:06.425
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:40:08.263
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:40:53.587
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:40:55.648
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:41:11.972
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:41:12.829
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:41:16.142
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:41:48.363
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:42:20.255
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:01.125
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:04.329
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:05.484
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:22.090
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:24.656
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:27.488
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:32.420
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:33.070
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:39.270
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:43:56.094
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:44:36.078
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:44:51.238
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:44:56.748
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:44:58.524
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:44:59.939
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:02.388
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:03.496
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:04.011
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:04.850
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:09.674
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:11.410
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:12.578
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:15.898
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:20.314
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:21.673
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:27.267
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:27.933
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:29.030
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:31.367
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:36.259
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:37.663
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:39.324
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:40.260
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:41.643
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:47.909
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:48.691
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:50.928
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:45:57.586
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:46:01.125
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:46:02.195
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:46:21.769
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:49:48.892
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 07:51:00.978
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:05.583
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:07.387
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:08.567
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:11.094
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:11.949
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:12.571
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:13.420
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:26.881
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:28.283
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:32.463
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:35.580
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:36.321
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:37.147
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:38.710
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:39.794
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:43.386
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:45.514
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:46.228
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:47.483
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:49.596
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:55.194
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:51:59.555
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:02.227
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:02.954
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:03.725
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:05.269
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:08.907
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:13.095
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:13.629
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:14.823
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:15.584
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:16.499
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:19.811
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:21.736
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:22.400
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:24.194
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:25.933
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:27.641
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:31.449
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:33.956
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:35.597
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:37.966
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:49.442
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:51.740
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:52.609
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:53.211
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:56.398
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:57.030
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:52:58.102
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:03.178
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:04.700
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:05.618
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:06.325
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:08.603
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:10.731
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:11.963
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:15.297
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:51.658
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:55.600
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:57.316
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:53:59.215
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:00.038
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:01.026
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:12.808
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:13.731
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:14.582
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:15.463
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:16.677
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:19.672
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:21.940
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:22.799
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:23.537
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:31.000
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:32.899
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:33.913
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:36.137
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:38.176
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:40.951
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:45.152
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:45.879
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:46.622
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:47.292
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:48.576
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:51.220
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:54:52.309
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:01.997
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:05.122
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:22.400
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:23.697
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:30.654
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:31.250
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:32.821
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:33.300
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:34.217
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:35.891
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:43.255
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:46.594
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:48.377
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:49.046
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:55.376
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:57.328
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:59.119
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:55:59.882
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:37.078
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:37.981
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:38.662
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:41.452
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:41.950
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:43.435
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:46.517
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:56.477
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:57.244
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:56:59.296
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:02.358
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:31.449
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:33.203
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:34.224
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:35.466
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:37.408
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:39.920
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:40.732
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:41.993
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:45.371
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:46.846
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:57:47.436
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:26.428
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:27.055
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:29.039
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:29.812
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:33.133
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:36.035
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:38.353
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:39.237
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:40.270
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:58:42.052
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:59:25.558
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 07:59:28.372
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 08:00:08.978
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 08:01:10.198
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 08:02:13.378
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 08:04:15.862
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:00.479
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:01.882
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:04.421
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:05.199
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:06.019
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:07.810
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:08.690
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:10.196
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:11.858
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:14.022
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:16.158
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:19.128
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:20.559
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:26.997
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:28.886
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:30.081
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:32.233
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:34.907
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:37.663
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:38.525
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:39.380
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:40.155
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:40.948
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:45.017
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:46.363
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:46.934
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:48.115
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:48.761
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:50.354
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:53.373
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:54.950
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:55.829
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:57.118
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:58.063
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:58.819
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:07:59.783
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:08:03.869
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:21.617
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:28.256
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:29.291
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:32.735
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:34.294
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:35.023
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:35.937
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:37.862
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:39.715
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:44.449
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:45.678
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:46.922
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:52.761
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:54.570
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:55.949
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:09:59.383
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:01.329
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:01.964
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:13.667
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:17.209
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:17.799
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:19.455
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:22.321
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:24.675
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:27.153
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:27.979
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:28.797
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:29.819
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:30.513
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:32.062
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:32.815
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:10:33.652
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:06.374
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:08.154
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:10.876
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:12.496
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:22.701
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:30.405
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:32.122
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:35.246
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:42.876
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:44.102
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:47.295
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:49.670
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:50.701
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:11:52.433
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:04.620
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:09.424
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:11.022
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:28.789
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:29.707
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:36.934
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:37.728
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:42.369
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:43.951
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:12:56.806
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:00.436
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:03.119
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:03.648
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:04.620
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:09.355
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:12.719
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:18.531
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:27.498
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:29.568
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:33.952
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:36.601
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:39.344
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:40.602
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:41.319
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:43.617
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:44.683
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:47.157
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:48.876
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:50.991
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 08:13:52.288
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 08:48:33.273
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 09:42:13.369
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 09:43:16.466
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 09:59:03.589
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 09:59:35.608
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 10:00:38.492
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 10:01:08.588
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 10:01:40.602
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 11:14:17.131
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 12:10:27.956
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 13:14:38.519
+!MESSAGE Request checkStatus failed with message: New streams cannot be created after receiving a GOAWAY
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 13:16:50.253
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 15:04:22.017
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 15:21:16.566
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 15:24:07.309
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 16:43:49.712
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:22:19.473
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:22:49.595
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:23:19.735
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:23:49.877
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:24:20.010
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:24:50.139
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:25:20.276
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:25:50.410
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:29:26.752
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:35.809
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:39.507
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:41.941
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:44.824
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:47.134
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:49.787
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:55.851
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:58.703
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:29:59.635
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:01.202
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:01.777
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:03.429
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:04.842
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:07.352
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:26.802
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:27.811
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:28.502
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:31.400
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:32.349
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:36.849
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:37.889
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:40.607
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:44.444
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:45.022
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:48.925
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:50.305
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:53.003
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:53.808
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:54.609
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:55.569
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:56.379
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:57.955
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:30:58.584
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:31:01.903
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:31:02.509
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:31:05.775
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:31:07.480
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:00.746
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:01.477
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:09.423
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:23.189
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:24.444
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:27.898
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:32.065
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:33.759
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:34.558
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:36.579
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:39.412
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:44.335
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:33:48.233
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:35:41.353
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:35:44.365
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:35:46.795
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:35:58.479
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:35:59.169
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:00.445
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:02.169
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:10.116
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:12.274
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:14.668
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:18.371
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:19.055
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:20.746
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:23.701
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:26.634
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:27.445
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:31.177
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:35.913
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:37.169
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:38.032
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:38.771
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:40.443
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:43.319
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:44.993
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:45.585
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:51.187
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:52.658
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:36:53.990
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:37:01.317
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:37:38.390
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:38:48.662
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:38:51.848
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:39:36.127
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:39:39.514
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:39:41.101
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:39:41.686
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:39:43.069
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:40:12.762
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:40:22.679
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:40:26.331
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:40:30.361
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:40:30.883
+!MESSAGE Request getCompletionsCycling failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:40:34.556
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:41:11.794
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:41:12.701
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:41:15.056
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:41:17.735
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:42:14.960
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:42:34.557
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:42:36.141
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:04.262
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:05.040
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:05.942
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:06.568
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:10.264
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:12.360
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:43:15.837
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:44:16.123
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:45:17.361
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:46:18.565
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:46:47.708
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:46:49.124
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:46:51.606
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:46:53.032
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:46:56.214
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:23.278
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:30.310
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:33.586
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:35.677
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:37.641
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:40.778
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:41.492
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:45.339
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:47.922
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:49.778
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:51.412
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:47:52.531
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:50:23.841
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:51:39.410
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:51:40.779
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:52:55.843
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:52:56.546
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:52:57.240
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:00.243
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:01.592
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:03.984
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:04.857
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:08.460
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:10.320
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:10.996
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:11.902
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:12.890
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:15.420
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:16.230
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:19.151
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:21.942
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:22.871
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:24.437
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:27.958
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:29.130
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:31.370
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:33.726
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:37.249
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:39.214
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:42.263
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:43.026
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:45.804
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:48.337
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:52.718
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:53.339
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:54.924
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:55.442
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:56.772
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:58.687
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:53:59.406
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:00.893
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:03.880
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:06.502
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:07.476
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:08.951
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:10.616
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:11.374
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:12.263
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:13.613
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:14.589
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:17.278
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY org.eclipse.jdt.core 4 4 2024-04-07 19:55:19.771
+!MESSAGE Could not retrieve superclass
+!STACK 0
+org.eclipse.jdt.internal.compiler.problem.AbortCompilation: Pb(347) The type com.google.protobuf.GeneratedMessageV3 cannot be resolved. It is indirectly referenced from required type com.mysql.cj.x.protobuf.MysqlxCrud.Update
+	at org.eclipse.jdt.internal.compiler.problem.ProblemHandler.handle(ProblemHandler.java:161)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemHandler.handle(ProblemHandler.java:228)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemReporter.handle(ProblemReporter.java:2693)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemReporter.isClassPathCorrect(ProblemReporter.java:5185)
+	at org.eclipse.jdt.internal.compiler.lookup.UnresolvedReferenceBinding.resolve(UnresolvedReferenceBinding.java:125)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveType(BinaryTypeBinding.java:251)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.superclass(BinaryTypeBinding.java:2466)
+	at org.eclipse.jdt.core.dom.TypeBinding.getSuperclass(TypeBinding.java:858)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.isInherited(UnresolvedElementsBaseSubProcessor.java:1015)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.addSimilarTypeProposals(UnresolvedElementsBaseSubProcessor.java:983)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.collectTypeProposals(UnresolvedElementsBaseSubProcessor.java:742)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.getTypeProposals(UnresolvedElementsSubProcessor.java:144)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.process(QuickFixProcessor.java:455)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.getCorrections(QuickFixProcessor.java:378)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:755)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core 4 4 2024-04-07 19:55:19.788
+!MESSAGE Could not retrieve superclass
+!STACK 0
+org.eclipse.jdt.internal.compiler.problem.AbortCompilation: Pb(347) The type com.google.protobuf.GeneratedMessageV3 cannot be resolved. It is indirectly referenced from required type com.mysql.cj.x.protobuf.MysqlxCrud.Delete
+	at org.eclipse.jdt.internal.compiler.problem.ProblemHandler.handle(ProblemHandler.java:161)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemHandler.handle(ProblemHandler.java:228)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemReporter.handle(ProblemReporter.java:2693)
+	at org.eclipse.jdt.internal.compiler.problem.ProblemReporter.isClassPathCorrect(ProblemReporter.java:5185)
+	at org.eclipse.jdt.internal.compiler.lookup.UnresolvedReferenceBinding.resolve(UnresolvedReferenceBinding.java:125)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.resolveType(BinaryTypeBinding.java:251)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.superclass(BinaryTypeBinding.java:2466)
+	at org.eclipse.jdt.core.dom.TypeBinding.getSuperclass(TypeBinding.java:858)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.isInherited(UnresolvedElementsBaseSubProcessor.java:1015)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.addSimilarTypeProposals(UnresolvedElementsBaseSubProcessor.java:983)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsBaseSubProcessor.collectTypeProposals(UnresolvedElementsBaseSubProcessor.java:742)
+	at org.eclipse.jdt.internal.ui.text.correction.UnresolvedElementsSubProcessor.getTypeProposals(UnresolvedElementsSubProcessor.java:144)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.process(QuickFixProcessor.java:455)
+	at org.eclipse.jdt.internal.ui.text.correction.QuickFixProcessor.getCorrections(QuickFixProcessor.java:378)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionCollector.safeRun(JavaCorrectionProcessor.java:381)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.run(JavaCorrectionProcessor.java:341)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor$SafeCorrectionProcessorAccess.process(JavaCorrectionProcessor.java:336)
+	at org.eclipse.jdt.internal.ui.text.correction.JavaCorrectionProcessor.collectCorrections(JavaCorrectionProcessor.java:465)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:115)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.computeCompletionProposals(ProblemHover.java:89)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.<init>(ProblemHover.java:74)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover.createAnnotationInfo(ProblemHover.java:178)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover.getHoverInfo2(AbstractAnnotationHover.java:755)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:55:25.981
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:08.496
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:09.263
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:11.459
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:12.963
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:14.483
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:15.266
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:20.427
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:22.198
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:23.769
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:24.749
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:26.063
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:28.822
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:31.092
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:32.830
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:33.432
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:34.534
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:36.101
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:38.359
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:41.195
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:43.869
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:45.647
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:47.495
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:49.684
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:54.595
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:56:56.388
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:57:04.331
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:57:17.707
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 19:58:34.330
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:35.165
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:37.606
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:38.178
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:39.667
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:41.665
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:45.414
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:46.245
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:48.793
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:49.543
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:50.243
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:51.150
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:58:52.102
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:00.845
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:03.341
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:09.848
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:10.779
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:12.423
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:14.183
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:16.257
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:18.083
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:19.794
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:24.257
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:25.845
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:31.023
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:34.462
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:45.080
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:46.637
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:48.308
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:50.966
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 19:59:52.826
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:02.244
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:03.501
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:11.797
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:16.127
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:16.681
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:17.795
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:25.345
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:25.914
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:33.562
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:36.212
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:37.873
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:38.770
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:40.846
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:43.559
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:45.114
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:47.382
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:53.120
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:56.121
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:00:59.393
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:01.643
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:06.630
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:07.793
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:08.849
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:12.599
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:14.977
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:17.222
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:19.177
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:21.089
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:23.270
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:25.228
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:26.646
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:27.501
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:29.163
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:31.473
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:34.405
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:35.205
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:37.561
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:39.731
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:42.104
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:43.808
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:46.382
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:47.345
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:48.282
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:48.950
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:49.801
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:51.092
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:55.370
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:01:56.048
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:02:02.385
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:02:03.639
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:02:05.171
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:02:07.625
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:01.926
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:02.965
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:03.668
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:05.320
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:06.136
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:08.447
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:09.244
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:11.154
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:13.574
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:34.838
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:41.695
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:42.926
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:44.776
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:45.739
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:49.406
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:52.088
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:55.133
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:56.058
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:03:59.827
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:02.668
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:04.564
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:08.733
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:09.586
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:10.369
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:11.105
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:12.174
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:13.147
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-07 20:04:15.023
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:07:43.236
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:09:46.258
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:10:47.563
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:19:02.693
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:20:03.893
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:21:05.164
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:25:13.731
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:26:14.626
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:27:46.765
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:28:47.708
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:34:28.660
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:36:00.662
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:37:01.838
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:38:33.838
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:39:05.855
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:39:35.932
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:40:07.952
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:43:11.932
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:44:43.780
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:48:51.172
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:49:52.220
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:50:53.140
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:51:54.286
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:53:26.281
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:55:28.967
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 20:57:00.894
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:02:09.021
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:03:10.036
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:07:16.440
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:09:19.109
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:13:25.574
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:15:28.357
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:17:00.654
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:19:34.624
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:20:36.006
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:21:36.956
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:22:38.103
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:23:39.433
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:25:12.209
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:26:13.613
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:28:17.325
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:29:49.628
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:31:21.703
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:32:53.701
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:34:25.865
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:35:57.882
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:43:09.782
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:52:56.709
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:54:59.579
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 21:56:00.578
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:02:41.537
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:04:44.564
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:05:45.546
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:07:48.152
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:08:49.328
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:09:50.373
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:13:03.845
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:22:39.106
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:27:04.487
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:29:31.438
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:35:42.336
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:38:14.468
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:40:41.664
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 22:59:11.319
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 23:15:37.427
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 23:17:09.582
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 23:34:06.995
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-07 23:55:43.159
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 03:14:54.172
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 06:17:53.551
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 09:20:46.749
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 12:23:39.826
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 12:57:58.427
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 12:58:28.593
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 12:58:58.752
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 12:59:28.911
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:02:03.700
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:04:06.957
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:06:40.763
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:08:13.130
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:09:44.855
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:13:20.446
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:15:56.642
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:16:28.661
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:17:00.674
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:17:32.689
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:18:33.811
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:19:34.901
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:23:11.061
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:24:43.461
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:25:45.645
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:27:48.868
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:29:52.065
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:30:52.962
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:35:00.714
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:36:01.835
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:37:33.836
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:38:34.961
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:42:12.000
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:44:45.509
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:45:46.772
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:48:51.500
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:52:27.397
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:54:30.371
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:55:31.525
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 13:56:32.656
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:00:39.059
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:01:40.118
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:02:41.251
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:04:13.506
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:06:16.487
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:08:19.245
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:10:22.325
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:11:23.462
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:13:57.333
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:15:00.543
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:16:01.694
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:18:04.654
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:19:05.518
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:19:37.536
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:21:09.371
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:22:10.330
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:23:11.569
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:25:14.452
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:26:46.498
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:28:18.842
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:29:21.934
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:31:56.122
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:32:57.341
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:33:58.269
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:34:59.367
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:43:45.194
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:44:50.996
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:45:01.497
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:53:27.942
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:53:58.132
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:54:10.574
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:54:12.536
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:54:13.550
+!MESSAGE Not authenticated: NotAuthorized
+!SESSION 2024-04-08 14:56:37.626 -----------------------------------------------
+eclipse.buildId=4.31.0.20240307-1200
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/md.saidurrahmansagor/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/md.saidurrahmansagor/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-04-08 14:56:42.348
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-08 14:56:43.057
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-04-08 14:56:48.199
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-04-08 14:56:48.814
+!MESSAGE Logback config file: /Users/md.saidurrahmansagor/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:57:03.121
+!MESSAGE <null>
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at com.genuitec.copilot4eclipse.Copilot4Eclipse.lambda$0(Unknown Source)
+	at com.genuitec.copilot4eclipse.Copilot4Eclipse$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:57:06.679
+!MESSAGE <null>
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at com.genuitec.copilot4eclipse.Copilot4Eclipse.lambda$0(Unknown Source)
+	at com.genuitec.copilot4eclipse.Copilot4Eclipse$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 14:57:10.217
+!MESSAGE <null>
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at com.genuitec.copilot4eclipse.Copilot4Eclipse.lambda$0(Unknown Source)
+	at com.genuitec.copilot4eclipse.Copilot4Eclipse$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 1 0 2024-04-08 14:57:12.430
+!MESSAGE [Info]	Registering request handler for workspace/didChangeWorkspaceFolders failed.
+
+!ENTRY org.eclipse.jface 2 0 2024-04-08 14:57:14.148
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-04-08 14:57:14.149
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.rap.tools.launch.RAPLaunchShortcut.run"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.wst.server.launchShortcut.run"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-04-08 14:57:14.149
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.wst.server.launchShortcut.debug"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:58:33.179
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:58:34.577
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 14:58:37.216
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:00:06.753
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:00:08.143
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:00:12.975
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:00:53.087
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:01:41.439
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:01:43.227
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:02:00.663
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:04:16.199
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:04:21.137
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:06:11.244
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:06:14.379
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:06:16.479
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:07:42.346
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:10:42.554
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:10:47.909
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:10:51.513
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:10:52.376
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:11.962
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:12.726
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:15.222
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:17.293
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:18.509
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:20.855
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:23.786
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:25.922
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:31.063
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:31.815
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:11:58.365
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-08 15:14:36.055
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:16:12.508
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:21:20.835
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:25:58.701
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:31:07.803
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:32:39.998
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:34:14.813
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:35:46.560
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:36:49.838
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:38:21.963
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:42:30.053
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:43:02.075
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:43:34.090
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:44:06.106
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:44:38.115
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:45:10.130
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:45:40.213
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:46:10.310
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:46:40.407
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:47:10.502
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:47:40.595
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:48:10.691
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:48:40.786
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:49:10.903
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:49:41.000
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:50:11.100
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:50:41.194
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:51:11.295
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:51:41.386
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:52:11.478
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:52:41.574
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:53:11.671
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:53:41.766
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:54:11.866
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:54:41.960
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:55:12.056
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:55:42.139
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:56:12.232
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:56:42.334
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:57:12.430
+!MESSAGE Request checkStatus failed with message: The pending stream has been canceled (caused by: getaddrinfo ENOTFOUND api.github.com)
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:57:42.640
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:58:12.773
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:58:42.902
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:59:13.041
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 15:59:43.171
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:00:13.310
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:00:43.443
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:01:13.574
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:01:43.705
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:18:01.457
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:18:31.591
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:19:01.721
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:19:31.856
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:20:01.962
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:37:42.794
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:38:12.926
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:53:53.840
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:54:23.970
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:54:54.109
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 16:55:24.241
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:11:47.943
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:28:31.111
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:29:01.244
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:29:31.377
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:30:01.506
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:30:31.634
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:33:55.054
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:38:33.829
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:39:03.962
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:54:58.894
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:55:29.027
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:55:59.160
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:56:29.287
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:56:59.413
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:57:29.542
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:57:59.677
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:58:29.801
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:58:59.939
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 17:59:30.069
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:00:00.199
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:00:30.333
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:01:00.461
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:01:30.589
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:02:00.726
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:02:30.861
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:03:00.986
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:03:31.109
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:04:01.243
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:04:31.376
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:05:01.512
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:05:31.646
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:06:01.775
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:06:31.910
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:07:02.042
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:07:32.174
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:08:02.300
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:08:32.431
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:09:02.560
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:09:32.687
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:10:02.823
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:10:32.951
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:11:03.086
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:11:33.219
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:12:03.433
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:12:33.567
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:13:03.699
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:13:33.836
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:14:03.965
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:14:34.095
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:15:04.226
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:15:34.357
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:16:04.487
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:16:34.615
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:17:04.744
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:17:34.881
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:18:05.012
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:18:35.147
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:19:05.273
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:19:35.405
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:20:05.540
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:20:35.674
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:21:05.802
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:21:35.934
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:22:06.063
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:22:36.197
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:23:06.328
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:23:36.477
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:24:06.608
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:24:36.740
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:25:06.871
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:25:37.005
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:26:07.136
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:26:37.268
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:27:07.400
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:27:37.531
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:28:07.668
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:28:37.803
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:29:07.936
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:29:38.075
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:30:08.204
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:30:38.333
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:31:08.462
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:31:38.594
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:32:08.724
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:32:38.855
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:33:08.993
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:33:39.128
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 18:49:56.889
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:01:01.809
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:01:31.943
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:17:36.040
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:18:06.169
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:18:36.302
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:19:06.433
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:19:36.568
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:35:31.651
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:36:01.789
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:36:31.921
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:37:02.058
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:37:32.190
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:53:19.996
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:53:50.126
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:54:20.254
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:54:50.393
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 19:55:20.527
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:02:17.764
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:18:40.904
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:19:11.035
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:35:27.134
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:35:59.521
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:36:29.657
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:52:57.584
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:53:27.721
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 20:53:57.853
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:09:32.614
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:10:02.720
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:26:27.911
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:26:58.046
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:27:28.175
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:27:58.311
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:28:28.443
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:45:44.827
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:46:14.959
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:46:45.087
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 21:47:15.236
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:03:03.394
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:03:33.529
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:04:03.667
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:04:33.804
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:05:03.945
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:10:50.556
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:26:51.674
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:27:21.808
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:27:51.945
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:28:22.073
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:28:52.211
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:45:53.633
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:46:23.761
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:46:53.891
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:47:24.024
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 22:47:54.159
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:05:02.061
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:05:32.190
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:06:02.326
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:06:32.466
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:07:02.603
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:07:32.738
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:08:02.871
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:08:33.007
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:25:53.838
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:26:23.978
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:26:54.184
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:27:24.313
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:27:54.451
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:44:30.990
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:45:01.126
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:45:31.254
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:46:01.384
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:46:31.514
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-08 23:56:10.008
+!MESSAGE Request checkStatus failed with message: getaddrinfo ENOTFOUND api.github.com
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:02:49.176
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:09:31.512
+!MESSAGE Request checkStatus failed with message: read ECONNRESET
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:11:03.850
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:12:04.683
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:13:36.700
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:17:12.384
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:20:47.480
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:21:48.618
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:23:20.428
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:24:21.553
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:25:22.409
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:30:31.196
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:31:32.257
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2024-04-09 00:33:03.814
+!MESSAGE Request checkStatus failed with message: Stream closed with error code NGHTTP2_REFUSED_STREAM
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:34:11.157
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:34:13.516
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:35:06.591
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:35:07.332
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:35:09.421
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:35:28.982
+!MESSAGE Not authenticated: NotAuthorized
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-04-09 00:35:29.898
+!MESSAGE Not authenticated: NotAuthorized
