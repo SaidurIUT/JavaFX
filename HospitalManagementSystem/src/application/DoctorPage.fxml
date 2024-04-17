@@ -13,11 +13,11 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.text.Font?>
 
-<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="330.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.FXMLDocumentController">
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="330.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.DoctorPageController">
    <children>
       <AnchorPane fx:id="main_form" prefHeight="550.0" prefWidth="330.0">
          <children>
-            <AnchorPane fx:id="login_form" prefHeight="550.0" prefWidth="330.0" styleClass="white-bg" stylesheets="@../design/PageDesign.css" visible="false">
+            <AnchorPane fx:id="login_form" prefHeight="550.0" prefWidth="330.0" styleClass="white-bg" stylesheets="@../design/PageDesign.css">
                <children>
                   <FontAwesomeIconView fill="#306090" glyphName="USER_MD" layoutX="142.0" layoutY="102.0" size="5em" />
                   <Label layoutX="110.0" layoutY="111.0" text="Login Accout" textFill="#306090">
@@ -42,7 +42,7 @@
                   <Hyperlink fx:id="login_registerHere" layoutX="170.0" layoutY="496.0" onAction="#switchFrom" text="Register here" />
                </children>
             </AnchorPane>
-            <AnchorPane fx:id="register_form" layoutX="10.0" layoutY="10.0" prefHeight="550.0" prefWidth="330.0" styleClass="white-bg" stylesheets="@../design/PageDesign.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+            <AnchorPane fx:id="register_form" layoutX="10.0" layoutY="10.0" prefHeight="550.0" prefWidth="330.0" styleClass="white-bg" stylesheets="@../design/PageDesign.css" visible="false" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                <children>
                   <FontAwesomeIconView fill="#306090" glyphName="USER_PLUS" layoutX="142.0" layoutY="102.0" size="5em" />
                   <Label layoutX="96.0" layoutY="111.0" text="Register Account" textFill="#306090">

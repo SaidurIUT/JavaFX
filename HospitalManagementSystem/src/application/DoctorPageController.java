@@ -107,19 +107,83 @@ public class DoctorPageController implements Initializable {
 	}
 
 	@FXML
+	void loginAccount() {
+
+		if (login_doctorID.getText().isEmpty() || login_password.getText().isEmpty()) {
+			alert.errorMessage("Incorrect Doctor ID/Password");
+		} else {
+
+			String sql = "SELECT * FROM doctor WHERE doctor_id = ? AND password = ? AND delete_date IS NULL";
+			connect = Database.connectDB();
+
+			try {
+
+				if (!login_showPassword.isVisible()) {
+					if (!login_showPassword.getText().equals(login_password.getText())) {
+						login_showPassword.setText(login_password.getText());
+					}
+				} else {
+					if (!login_showPassword.getText().equals(login_password.getText())) {
+						login_password.setText(login_showPassword.getText());
+					}
+				}
+
+				// CHECK IF THE STATUS OF THE DOCTOR IS CONFIRM
+				String checkStatus = "SELECT status FROM doctor WHERE doctor_id = '" + login_doctorID.getText()
+						+ "' AND password = '" + login_password.getText() + "' AND status = 'Confirm'";
+
+				prepare = connect.prepareStatement(checkStatus);
+				result = prepare.executeQuery();
+
+				if (result.next()) {
+
+					alert.errorMessage("Need the confimation of the Admin!");
+				} else {
+					prepare = connect.prepareStatement(sql);
+					prepare.setString(1, login_doctorID.getText());
+					prepare.setString(2, login_password.getText());
+
+					result = prepare.executeQuery();
+
+					if (result.next()) {
+
+						Data.doctor_id = result.getString("doctor_id");
+						Data.doctor_name = result.getString("full_name");
+
+						alert.successMessage("Login Successfully!");
+
+						// LINK YOUR DOCTOR MAIN FORM
+						Parent root = FXMLLoader.load(getClass().getResource("DoctorMainForm.fxml"));
+						Stage stage = new Stage();
+
+						stage.setTitle("Hospital Management System | Doctor Main Form");
+						stage.setScene(new Scene(root));
+						stage.show();
+
+						// TO HIDE YOUR DOCTOR PAGE
+						login_loginBtn.getScene().getWindow().hide();
+
+					} else {
+						alert.errorMessage("Incorrect Doctor ID/Password");
+					}
+				}
+
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+
+		}
+
+	}
+
+	@FXML
 	void registerAccount(ActionEvent event) {
 		if (register_fullName.getText().isEmpty() || register_email.getText().isEmpty()
 				|| register_doctorID.getText().isEmpty() || register_password.getText().isEmpty()) {
 			alert.errorMessage("Please fill all blank fields");
 		} else {
 
-			String checkDoctorID = "SELECT * FROM doctor WHERE doctor_id = '" + register_doctorID.getText() + "'"; // LETS
-																													// CREATE
-																													// OUR
-																													// TABLE
-																													// FOR
-																													// DOCTOR
-																													// FIRST
+			String checkDoctorID = "SELECT * FROM doctor WHERE doctor_id = '" + register_doctorID.getText() + "'";
 
 			connect = Database.connectDB();
 
@@ -159,6 +223,8 @@ public class DoctorPageController implements Initializable {
 					prepare.setString(5, String.valueOf(sqlDate));
 					prepare.setString(6, "Confirm");
 
+					System.out.println(prepare);
+
 					prepare.executeUpdate();
 
 					alert.successMessage("Registered Succesfully!");
@@ -175,6 +241,47 @@ public class DoctorPageController implements Initializable {
 
 	@FXML
 	void registerShowPassword(ActionEvent event) {
+
+		if (register_checkBox.isSelected()) {
+			register_showPassword.setText(register_password.getText());
+			register_showPassword.setVisible(true);
+			register_password.setVisible(false);
+		} else {
+			register_password.setText(register_showPassword.getText());
+			register_showPassword.setVisible(false);
+			register_password.setVisible(true);
+		}
+	}
+
+	public void registerDoctorID() {
+		String doctorID = "DID-";
+		int tempID = 0;
+		String sql = "SELECT MAX(id) FROM doctor";
+
+		connect = Database.connectDB();
+
+		try {
+
+			prepare = connect.prepareStatement(sql);
+			result = prepare.executeQuery();
+
+			if (result.next()) {
+				tempID = result.getInt("MAX(id)");
+			}
+
+			if (tempID == 0) {
+				tempID += 1;
+				doctorID += tempID;
+			} else {
+				doctorID += (tempID + 1);
+			}
+
+			register_doctorID.setText(doctorID);
+			register_doctorID.setDisable(true);
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
 
 	}
 
@@ -271,9 +378,9 @@ public class DoctorPageController implements Initializable {
 	}
 
 	@Override
-	public void initialize(URL arg0, ResourceBundle arg1) {
-		// TODO Auto-generated method stub
-
+	public void initialize(URL location, ResourceBundle resources) {
+		registerDoctorID();
+		userList();
 	}
 
 }
