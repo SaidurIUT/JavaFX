@@ -8,16 +8,23 @@ import javafx.stage.Stage;
 
 public class Main extends Application {
 
-    @Override
-    public void start(Stage primaryStage) throws Exception{
-        Parent root = FXMLLoader.load(getClass().getResource("hellofx.fxml"));
-        primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root, 400, 300));
-        primaryStage.show();
-    }
+	@Override
 
+	public void start(Stage stage) throws Exception {
 
-    public static void main(String[] args) {
-        launch(args);
-    }
+		Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
+		Scene scene = new Scene(root);
+
+		stage.setMinWidth(340);
+		stage.setMinHeight(560);
+		stage.setTitle("Hospital Management System");
+
+		stage.setScene(scene);
+		stage.show();
+	}
+
+	public static void main(String[] args) {
+		launch(args);
+	}
+
 }
