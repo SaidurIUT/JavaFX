@@ -34,9 +34,9 @@ public class adminLoginController {
 	@FXML
 	private Scene scene;
 
-	String url = "jdbc:mysql://sql6.freesqldatabase.com:3306/sql6693766";
-	String username = "sql6693766";
-	String password = "h1Pcz9vaTK";
+	String url = "jdbc:mysql://localhost:3306/college";
+	String username = "root";
+	String password = "123";
 	PreparedStatement pst;
 	Connection con;
 	ResultSet rs;

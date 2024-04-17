@@ -26,10 +26,13 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-public class FXMLDocumentController implements Initializable {
+public class DoctorPageController implements Initializable {
 
 	@FXML
 	private CheckBox login_checkBox;
+
+	@FXML
+	private TextField login_doctorID;
 
 	@FXML
 	private AnchorPane login_form;
@@ -50,9 +53,6 @@ public class FXMLDocumentController implements Initializable {
 	private ComboBox<?> login_user;
 
 	@FXML
-	private TextField login_username;
-
-	@FXML
 	private AnchorPane main_form;
 
 	@FXML
@@ -63,6 +63,12 @@ public class FXMLDocumentController implements Initializable {
 
 	@FXML
 	private AnchorPane register_form;
+
+	@FXML
+	private TextField register_fullName;
+
+	@FXML
+	private TextField register_doctorID;
 
 	@FXML
 	private Hyperlink register_loginHere;
@@ -77,20 +83,44 @@ public class FXMLDocumentController implements Initializable {
 	private Button register_signupBtn;
 
 	@FXML
-	private TextField register_username;
+	private TextField resister_doctorID;
 
 	private Connection connect;
 	private PreparedStatement prepare;
 	private ResultSet result;
 
-	private AlertMessage alert = new AlertMessage();
+	private final AlertMessage alert = new AlertMessage();
 
-	public void registerAccount() {
-		if (register_email.getText().isEmpty() || register_username.getText().isEmpty()
-				|| register_password.getText().isEmpty()) {
-			alert.errorMessage("Please fill all the information");
+	@FXML
+	void loginShowPassword(ActionEvent event) {
+
+		if (login_checkBox.isSelected()) {
+			login_showPassword.setText(login_password.getText());
+			login_password.setVisible(false);
+			login_showPassword.setVisible(true);
 		} else {
-			String checkUsername = "SELECT * FROM admin WHERE username = '" + register_username.getText() + "'";
+			login_password.setText(login_showPassword.getText());
+			login_password.setVisible(true);
+			login_showPassword.setVisible(false);
+		}
+
+	}
+
+	@FXML
+	void registerAccount(ActionEvent event) {
+		if (register_fullName.getText().isEmpty() || register_email.getText().isEmpty()
+				|| register_doctorID.getText().isEmpty() || register_password.getText().isEmpty()) {
+			alert.errorMessage("Please fill all blank fields");
+		} else {
+
+			String checkDoctorID = "SELECT * FROM doctor WHERE doctor_id = '" + register_doctorID.getText() + "'"; // LETS
+																													// CREATE
+																													// OUR
+																													// TABLE
+																													// FOR
+																													// DOCTOR
+																													// FIRST
+
 			connect = Database.connectDB();
 
 			try {
@@ -105,88 +135,47 @@ public class FXMLDocumentController implements Initializable {
 					}
 				}
 
-				prepare = connect.prepareStatement(checkUsername);
+				prepare = connect.prepareStatement(checkDoctorID);
 				result = prepare.executeQuery();
 
 				if (result.next()) {
-					alert.errorMessage(register_username.getText() + " is already exist");
+					alert.errorMessage(register_doctorID.getText() + " is already taken");
 				} else if (register_password.getText().length() < 8) {
-
-					alert.errorMessage("Invalid Password, at least 8 characters needed");
+					alert.errorMessage("Invalid password, at least 8 characters needed");
 				} else {
-					String insertData = "INSERT INTO admin (email,username,password,date) VALUES (?,?,?,?)";
+
+					String insertData = "INSERT INTO doctor (full_name, email, doctor_id, password, date, status) "
+							+ "VALUES(?,?,?,?,?,?)";
+
+					prepare = connect.prepareStatement(insertData);
 
 					Date date = new Date(0);
 					java.sql.Date sqlDate = new java.sql.Date(date.getTime());
 
-					prepare = connect.prepareStatement(insertData);
-					prepare.setString(1, register_email.getText());
-					prepare.setString(2, register_username.getText());
-					prepare.setString(3, register_password.getText());
-					prepare.setString(4, String.valueOf(sqlDate));
+					prepare.setString(1, register_fullName.getText());
+					prepare.setString(2, register_email.getText());
+					prepare.setString(3, register_doctorID.getText());
+					prepare.setString(4, register_password.getText());
+					prepare.setString(5, String.valueOf(sqlDate));
+					prepare.setString(6, "Confirm");
 
 					prepare.executeUpdate();
 
-					alert.successMessage("Registered Successfully");
-					registerClear();
-
-					login_form.setVisible(true);
-					register_form.setVisible(false);
+					alert.successMessage("Registered Succesfully!");
 
 				}
 
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
+
 		}
 
 	}
 
-	public void registerShowPassword() {
+	@FXML
+	void registerShowPassword(ActionEvent event) {
 
-		if (register_checkBox.isSelected()) {
-			register_showPassword.setText(register_password.getText());
-			register_showPassword.setVisible(true);
-			register_password.setVisible(false);
-		} else {
-			register_password.setText(register_showPassword.getText());
-			register_showPassword.setVisible(false);
-			register_password.setVisible(true);
-		}
-
-	}
-
-	public void loginShowPassword() {
-
-		if (login_checkBox.isSelected()) {
-			login_showPassword.setText(login_password.getText());
-			login_showPassword.setVisible(true);
-			login_password.setVisible(false);
-		} else {
-			login_password.setText(login_showPassword.getText());
-			login_showPassword.setVisible(false);
-			login_password.setVisible(true);
-		}
-
-	}
-
-	public void registerClear() {
-		register_email.clear();
-		register_username.clear();
-		register_password.clear();
-		register_showPassword.clear();
-	}
-
-	// this function changes the pages between login page and register page
-
-	public void switchFrom(ActionEvent event) {
-		if (event.getSource() == login_registerHere) {
-			login_form.setVisible(false);
-			register_form.setVisible(true);
-		} else if (event.getSource() == register_loginHere) {
-			login_form.setVisible(true);
-			register_form.setVisible(false);
-		}
 	}
 
 	public void userList() {
@@ -268,9 +257,23 @@ public class FXMLDocumentController implements Initializable {
 
 	}
 
+	@FXML
+	void switchFrom(ActionEvent event) {
+
+		if (event.getSource() == register_loginHere) {
+			login_form.setVisible(true);
+			register_form.setVisible(false);
+		} else if (event.getSource() == login_registerHere) {
+			login_form.setVisible(false);
+			register_form.setVisible(true);
+		}
+
+	}
+
 	@Override
-	public void initialize(URL url, ResourceBundle rb) {
-		userList();
+	public void initialize(URL arg0, ResourceBundle arg1) {
+		// TODO Auto-generated method stub
+
 	}
 
 }
