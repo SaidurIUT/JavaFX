@@ -35,7 +35,7 @@
                      </styleClass>
                   </TextField>
                   <CheckBox fx:id="login_checkBox" layoutX="43.0" layoutY="266.0" mnemonicParsing="false" onAction="#loginShowPassword" text="Show Password" />
-                  <Button fx:id="login_loginBtn" layoutX="40.0" layoutY="301.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="250.0" styleClass="btn-1" stylesheets="@../design/PageDesign.css" text="LogIn" />
+                  <Button fx:id="login_loginBtn" layoutX="40.0" layoutY="301.0" mnemonicParsing="false" onAction="#loginAccount" prefHeight="38.0" prefWidth="250.0" styleClass="btn-1" stylesheets="@../design/PageDesign.css" text="LogIn" />
                   <FontAwesomeIconView fill="#306090" glyphName="ADDRESS_BOOK" layoutX="126.0" layoutY="439.0" size="6em" />
                   <ComboBox fx:id="login_user" layoutX="90.0" layoutY="461.0" onAction="#switchPage" prefWidth="150.0" promptText="Select Role" stylesheets="@../design/PageDesign.css" />
                   <Label layoutX="68.0" layoutY="499.0" text="Have no account?" />
