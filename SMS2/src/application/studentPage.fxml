@@ -25,7 +25,7 @@
                      </font>
                   </Label>
                   <Label layoutX="127.0" layoutY="136.0" text="Student Portal" />
-                  <TextField fx:id="login_stuentID" layoutX="43.0" layoutY="188.0" prefHeight="30.0" prefWidth="250.0" promptText="Student ID" styleClass="textfield-1" stylesheets="@../design/PageDesign.css" />
+                  <TextField fx:id="login_studentID" layoutX="43.0" layoutY="188.0" prefHeight="30.0" prefWidth="250.0" promptText="Student ID" styleClass="textfield-1" stylesheets="@../design/PageDesign.css" />
                   <PasswordField fx:id="login_password" layoutX="42.0" layoutY="230.0" prefHeight="30.0" prefWidth="250.0" promptText="Password" styleClass="textfield-1" stylesheets="@../design/PageDesign.css" />
                   <TextField fx:id="login_showPassword" layoutX="42.0" layoutY="230.0" prefHeight="30.0" prefWidth="250.0" promptText="Password" stylesheets="@../design/PageDesign.css" visible="false">
                      <styleClass>

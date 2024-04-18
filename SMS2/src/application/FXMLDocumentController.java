@@ -210,7 +210,7 @@ public class FXMLDocumentController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -231,7 +231,7 @@ public class FXMLDocumentController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("teacherPage.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -250,7 +250,7 @@ public class FXMLDocumentController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("studentPage.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -276,8 +276,8 @@ public class FXMLDocumentController implements Initializable {
 }
 
 //write appropriate mysql command here for creating appropriate tables for the database
-//create database hospital;
-//use hospital;
+//create database Student;
+//use Student;
 //create table admin(
 //id int primary key auto_increment,
 //email varchar(255),

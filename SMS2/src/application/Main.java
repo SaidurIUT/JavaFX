@@ -17,7 +17,7 @@ public class Main extends Application {
 
 		stage.setMinWidth(340);
 		stage.setMinHeight(560);
-		stage.setTitle("Hospital Management System");
+		stage.setTitle("Student Management System");
 
 		stage.setScene(scene);
 		stage.show();

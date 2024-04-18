@@ -149,15 +149,13 @@ public class teacherPageController implements Initializable {
 
 						alert.successMessage("Login Successfully!");
 
-						// LINK YOUR teacher MAIN FORM
 //						Parent root = FXMLLoader.load(getClass().getResource("teacherMainForm.fxml"));
 //						Stage stage = new Stage();
 //
-//						stage.setTitle("Hospital Management System | teacher Main Form");
+//						stage.setTitle("Student Management System | teacher Main Form");
 //						stage.setScene(new Scene(root));
 //						stage.show();
 
-						// TO HIDE YOUR teacher PAGE
 						// login_loginBtn.getScene().getWindow().hide();
 
 					} else {
@@ -251,7 +249,7 @@ public class teacherPageController implements Initializable {
 	}
 
 	public void registerteacherID() {
-		String teacherID = "DID-";
+		String teacherID = "TID-";
 		int tempID = 0;
 		String sql = "SELECT MAX(id) FROM teacher";
 
@@ -303,7 +301,7 @@ public class teacherPageController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -324,7 +322,7 @@ public class teacherPageController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("teacherPage.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -343,7 +341,7 @@ public class teacherPageController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("studentPage.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);

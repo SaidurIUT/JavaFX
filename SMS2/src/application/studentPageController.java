@@ -109,14 +109,13 @@ public class studentPageController implements Initializable {
 //                         Data.student_id = Integer.parseInt(login_studentID.getText());
 //                         
 						alert.successMessage("Login Successfully!");
-//                         // LINK YOUR student MAIN FORM
+//                         
 //                         Parent root = FXMLLoader.load(getClass().getResource("studentMainForm.fxml"));
 //                         Stage stage = new Stage();
 //
 //                         stage.setScene(new Scene(root));
 //                         stage.show();
 //
-//                         // TO HIDE YOUR LOGIN FORM
 //                         login_loginBtn.getScene().getWindow().hide();
 					} else {
 						alert.errorMessage("Incorrect student ID/Password");
@@ -167,7 +166,7 @@ public class studentPageController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -186,7 +185,7 @@ public class studentPageController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("teacherPage.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
@@ -205,7 +204,7 @@ public class studentPageController implements Initializable {
 				Parent root = FXMLLoader.load(getClass().getResource("studentPage.fxml"));
 				Stage stage = new Stage();
 
-				stage.setTitle("Hospital Management System");
+				stage.setTitle("Student Management System");
 
 				stage.setMinWidth(340);
 				stage.setMinHeight(580);
