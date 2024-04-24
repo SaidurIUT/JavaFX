@@ -483,3 +483,13 @@ public class AddStudentController implements Initializable {
 	}
 
 }
+
+// write a MYSQL  query to create a table named course with the following fields:
+// course_id, course, price, date_insert, date_update, date_delete
+// course_id is the primary key
+// course is a string field
+// price is a double field
+// date_insert is a date field
+// date_update is a date field
+// date_delete is a date field
+//
