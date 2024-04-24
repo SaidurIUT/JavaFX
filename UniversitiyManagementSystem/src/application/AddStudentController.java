@@ -142,7 +142,6 @@ public class AddStudentController implements Initializable {
 
 					prepare.setString(12, path);
 
-//                    C:\Users\WINDOWS 10\Documents\NetBeansProjects\UniversitiyManagementSystem\src\Student_Directory
 					Date date = new Date();
 					java.sql.Date sqlDate = new java.sql.Date(date.getTime());
 

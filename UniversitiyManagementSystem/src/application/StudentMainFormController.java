@@ -24,10 +24,6 @@ import javafx.scene.paint.ImagePattern;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-/**
- *
- * @author WINDOWS 10
- */
 public class StudentMainFormController implements Initializable {
 
 	@FXML

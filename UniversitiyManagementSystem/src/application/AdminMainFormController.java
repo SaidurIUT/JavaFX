@@ -179,6 +179,9 @@ public class AdminMainFormController implements Initializable {
 	private Button addTeacher_importBtn;
 
 	@FXML
+	private Button admin_logOut;
+
+	@FXML
 	private Button addTeacher_addBtn;
 
 	@FXML
@@ -520,8 +523,9 @@ public class AdminMainFormController implements Initializable {
 
 		dashboard_chart_DS.getData().clear();
 
-		String sql = "SELECT date_insert, COUNT(id) FROM student WHERE date_delete IS NULL GROUP BY TIMESTAMP(date_insert) ASC LIMIT 9";
-
+		// String sql = "SELECT date_insert, COUNT(id) FROM student WHERE date_delete IS
+		// NULL GROUP BY TIMESTAMP(date_insert) ASC LIMIT 9";
+		String sql = "SELECT DATE(date_insert), COUNT(id) FROM student WHERE date_delete IS NULL GROUP BY DATE(date_insert) ORDER BY DATE(date_insert) ASC LIMIT 9";
 		connect = Database.connectDB();
 
 		try {
@@ -546,8 +550,9 @@ public class AdminMainFormController implements Initializable {
 
 		dashboard_chart_DT.getData().clear();
 
-		String sql = "SELECT date_insert, COUNT(id) FROM teacher WHERE date_delete IS NULL GROUP BY TIMESTAMP(date_insert) ASC LIMIT 5";
-
+		// String sql = "SELECT date_insert, COUNT(id) FROM teacher WHERE date_delete IS
+		// NULL GROUP BY TIMESTAMP(date_insert) ASC LIMIT 5";
+		String sql = "SELECT DATE(date_insert), COUNT(id) FROM teacher WHERE date_delete IS NULL GROUP BY DATE(date_insert) ORDER BY DATE(date_insert) ASC LIMIT 5";
 		connect = Database.connectDB();
 
 		try {
@@ -572,8 +577,10 @@ public class AdminMainFormController implements Initializable {
 
 		dashboard_chart_DI.getData().clear();
 
-		String sql = "SELECT date_insert, SUM(payment) FROM student WHERE status_payment = 'Paid' AND date_delete IS NULL GROUP BY TIMESTAMP(date_insert) ASC LIMIT 5";
-
+		// String sql = "SELECT date_insert, SUM(payment) FROM student WHERE
+		// status_payment = 'Paid' AND date_delete IS NULL GROUP BY
+		// TIMESTAMP(date_insert) ASC LIMIT 5";
+		String sql = "SELECT DATE(date_insert), SUM(payment) FROM student WHERE status_payment = 'Paid' AND date_delete IS NULL GROUP BY DATE(date_insert) ORDER BY DATE(date_insert) ASC LIMIT 5";
 		connect = Database.connectDB();
 
 		try {
@@ -1962,6 +1969,26 @@ public class AdminMainFormController implements Initializable {
 			salaryDisableFields();
 			salarySalaryStatusList();
 			salaryDisplaydata();
+		}
+
+	}
+
+	public void logoutBtn() {
+
+		try {
+			if (alert.confirmMessage("Are you sure you want to logout?")) {
+				Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
+
+				Stage stage = new Stage();
+				Scene scene = new Scene(root);
+
+				stage.setScene(scene);
+				stage.show();
+
+				admin_logOut.getScene().getWindow().hide();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
 		}
 
 	}

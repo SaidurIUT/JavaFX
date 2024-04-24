@@ -621,14 +621,13 @@ public class TeacherMainFormController implements Initializable {
 	public void logoutBtn() {
 		try {
 			if (alert.confirmMessage("Are you sure you want to logout?")) {
-				// TO SHOW THE LOGIN FORM
+
 				Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
 				Stage stage = new Stage();
 
 				stage.setScene(new Scene(root));
 				stage.show();
 
-				// TO HIDE YOUR MAIN FORM
 				logout_btn.getScene().getWindow().hide();
 			}
 		} catch (Exception e) {
