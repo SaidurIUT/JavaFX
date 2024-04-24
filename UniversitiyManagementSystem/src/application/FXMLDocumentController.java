@@ -508,14 +508,3 @@ public class FXMLDocumentController implements Initializable {
 	}
 
 }
-
-//CREATE TABLE users (
-//	    id INT AUTO_INCREMENT PRIMARY KEY,
-//	    email VARCHAR(255) NOT NULL,
-//	    username VARCHAR(255) NOT NULL,
-//	    password VARCHAR(255) NOT NULL,
-//	    role ENUM('Admin', 'Student', 'Teacher') NOT NULL,
-//	    student_id VARCHAR(255),
-//	    teacher_id VARCHAR(255),
-//	    date DATE NOT NULL
-//	);
