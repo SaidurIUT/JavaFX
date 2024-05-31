@@ -1,0 +1,44 @@
+.button
+{
+	background-color: #000000;
+	color: #000000;
+}
+
+
+
+/* CSS classes */
+.button-Start {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #000000;
+    -fx-font-size: 20px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 10px;
+}
+
+.button-Start:hover {
+	-fx-background-color: #000000;
+	-fx-text-fill: #ffffff;
+}	
+
+
+.button-Stop {
+    -fx-background-color: #e3e3e6;
+    -fx-text-fill: #000000;
+    -fx-font-size: 20px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 10px;
+}
+
+.button-Stop:hover {
+	-fx-background-color: #000000;
+	-fx-text-fill: #ffffff;
+}
+

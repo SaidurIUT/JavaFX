@@ -1,0 +1,6 @@
+.rounded_corner {
+  width: 150px;
+  height: 90px;
+  border-radius: 10px; /* Adjust the value to change the roundness */
+  background-color: lightblue; /* Optional background color */
+}
