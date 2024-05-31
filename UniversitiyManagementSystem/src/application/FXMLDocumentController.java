@@ -20,6 +20,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.CheckBox;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.control.PasswordField;
@@ -27,14 +28,13 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-/**
- *
- * @author WINDOWS 10
- */
 public class FXMLDocumentController implements Initializable {
 
 	@FXML
 	private AnchorPane login_form;
+
+	@FXML
+	private CheckBox login_checkBox;
 
 	@FXML
 	private TextField login_username;
@@ -108,6 +108,9 @@ public class FXMLDocumentController implements Initializable {
 	@FXML
 	private PasswordField teacher_cPassword;
 
+	@FXML
+	private TextField login_showPassword;
+
 	private Connection connect;
 	private PreparedStatement prepare;
 	private ResultSet result;
@@ -146,7 +149,7 @@ public class FXMLDocumentController implements Initializable {
 						Parent root = FXMLLoader.load(getClass().getResource("AdminMainForm.fxml"));
 
 						Stage stage = new Stage();
-						stage.setTitle("University Management System | Admin Portal");
+						stage.setTitle("Student Management System | Admin Portal");
 						stage.setScene(new Scene(root));
 
 						stage.show();
@@ -172,7 +175,7 @@ public class FXMLDocumentController implements Initializable {
 								Parent root = FXMLLoader.load(getClass().getResource("StudentMainForm.fxml"));
 								Stage stage = new Stage();
 
-								stage.setTitle("University Management System | Student Portal");
+								stage.setTitle("Student Management System | Student Portal");
 								stage.setScene(new Scene(root));
 								stage.show();
 
@@ -199,7 +202,7 @@ public class FXMLDocumentController implements Initializable {
 								Parent root = FXMLLoader.load(getClass().getResource("TeacherMainForm.fxml"));
 								Stage stage = new Stage();
 
-								stage.setTitle("University Management System | Teacher Portal");
+								stage.setTitle("Student Management System | Teacher Portal");
 								stage.setScene(new Scene(root));
 								stage.show();
 
@@ -498,6 +501,20 @@ public class FXMLDocumentController implements Initializable {
 			break;
 		default:
 			break;
+		}
+
+	}
+
+	public void loginShowPassword() {
+
+		if (login_checkBox.isSelected()) {
+			login_showPassword.setText(login_password.getText());
+			login_showPassword.setVisible(true);
+			login_password.setVisible(false);
+		} else {
+			login_password.setText(login_showPassword.getText());
+			login_showPassword.setVisible(false);
+			login_password.setVisible(true);
 		}
 
 	}

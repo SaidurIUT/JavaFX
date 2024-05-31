@@ -1,5 +1,5 @@
 .bg-form{
-    -fx-background-color: linear-gradient(to bottom right, #0d9642, #1a722c);
+    -fx-background-color: linear-gradient(to bottom right, #3944BC, #0A1172);
 }
 
 .header{
@@ -12,7 +12,7 @@
 .textfield{
     -fx-background-color: transparent;
     -fx-padding: 0 0 0 25px;
-    -fx-border-color: linear-gradient(to bottom right, #0abfa4, #00d079);
+    -fx-border-color: linear-gradient(to bottom right, #82EEFD, #0492C2);
     -fx-border-width: .8px;
     -fx-text-fill: #fff;
     -fx-font-size: 14px;
